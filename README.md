@@ -1,0 +1,2 @@
+# starter-ecommerce
+Starter project
